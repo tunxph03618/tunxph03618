@@ -11,6 +11,7 @@ namespace demo_lab6
         static void Main(string[] args)
         {
             //update lan 1
+            // update lan 2
 
 
         }
