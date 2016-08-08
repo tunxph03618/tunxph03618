@@ -12,7 +12,7 @@ namespace demo_lab6
         {
             //update lan 1
             // update lan 2
-            //update lan 3
+            //update lan 123124
 
         }
     }
