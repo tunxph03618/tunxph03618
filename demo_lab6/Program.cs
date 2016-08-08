@@ -10,7 +10,9 @@ namespace demo_lab6
     {
         static void Main(string[] args)
         {
-            //i
+            //update lan 1
+
+
         }
     }
 }
